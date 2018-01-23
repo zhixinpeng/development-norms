@@ -1,4 +1,4 @@
-# Vue 组件细则
+# Vue 组件
 
 `.vue` 文件是一个自定义的文件类型，用类 `HTML` 语法描述一个 `Vue` 组件。每个 `.vue` 文件包含三种类型的顶级语言块 `<template>`、`<script>` 和 `<style>`，还允许添加可选的自定义块：
 
@@ -37,8 +37,6 @@ export default {
   /* write SASS! */
 </style>
 ```
-
-## 语言块
 
 `<template>`
 
