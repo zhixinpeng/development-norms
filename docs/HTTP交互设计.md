@@ -89,8 +89,8 @@
 
 ```
 {
-   code:0,
-   message: “请求成功”,
-   data : [{"id" : 1, "username" : "abc"}]
+   "code":0,
+   "message": “请求成功”,
+   "data" : [{"id" : 1, "username" : "abc"}]
 }
 ```
