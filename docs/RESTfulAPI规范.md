@@ -38,4 +38,4 @@ Composer require –prefer-dist yiisoft/yii2-apidoc
 "yiisoft/yii2-apidoc" : "~2.0.0"
 ```
 
-或者通过npm 进行安装 
+或者通过npm 进行安装, 具体使用, 请参见[这里](http://blog.csdn.net/soslinken/article/details/50468896)
