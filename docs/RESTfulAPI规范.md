@@ -20,7 +20,7 @@
 
 windows平台可下载PostMAN工具
 
-Mac 平台可下载RAW工具
+Mac 平台可下载PAW工具
 
 ## 文档生成工具apiDoc
 
